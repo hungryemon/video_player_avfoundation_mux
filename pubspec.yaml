@@ -20,10 +20,10 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  video_player_platform_interface: 
+  video_player_platform_interface_mux: 
    git:
     url: git@github.com:hungryemon/video_player_platform_interface_mux.git
-    ref: 458cf68334b228e66bdd76fae62e18d751338f3c
+    ref: 9ea9201517e15a40d23914902c1989f15caaa693
 
 dev_dependencies:
   flutter_test:

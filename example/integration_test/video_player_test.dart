@@ -17,7 +17,7 @@ import 'package:video_player_avfoundation/video_player_avfoundation.dart';
 // during federation and minimally modified, which is why they currently use the
 // controller.)
 import 'package:video_player_example/mini_controller.dart';
-import 'package:video_player_platform_interface/video_player_platform_interface.dart';
+import 'package:video_player_platform_interface_mux/video_player_platform_interface.dart';
 
 const Duration _playDuration = Duration(seconds: 1);
 
